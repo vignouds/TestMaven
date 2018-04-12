@@ -1,0 +1,11 @@
+animal\animal\Animal.class
+animal\regime\Carnivore.class
+animal\animals\Lion.class
+animal\animals\Hyene.class
+animal\regime\Regime.class
+animal\animals\Lapin.class
+animal\regime\Omnivore.class
+animal\animal\Aliment.class
+animal\regime\Herbivore.class
+animal\main\Main.class
+animal\animals\Homme.class
